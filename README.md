@@ -1,3 +1,3 @@
-# FoodPrep_PowerBI
+# PowerBI_Learnings
 
-<h2> This repo contains sample data and power BI file for finished visualisations for food procurement in different stores </h2>
+<h2> This repo contains sample data and power BI learnings. </h2>
